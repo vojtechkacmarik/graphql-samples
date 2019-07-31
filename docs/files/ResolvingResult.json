@@ -1,0 +1,16 @@
+{
+  "data": {
+    "owner": {
+      "id": "514c3bc3-14df-4515-bc13-256e75dd2e9f",
+      "name": "John Doe",
+      "address": "John Doe's address",
+      "accounts": null
+    }
+  },
+  "errors": [
+    {
+      "message": "Cannot read Accounts."
+    }
+  ],
+  "extensions": []
+}

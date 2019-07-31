@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "W:\\GitHub\\Repos\\graphql-samples\\src\\GraphQLClient\\GraphQLClient.csproj": {}
+  },
+  "projects": {
+    "W:\\GitHub\\Repos\\graphql-samples\\src\\GraphQLClient\\GraphQLClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\GitHub\\Repos\\graphql-samples\\src\\GraphQLClient\\GraphQLClient.csproj",
+        "projectName": "GraphQLClient",
+        "projectPath": "W:\\GitHub\\Repos\\graphql-samples\\src\\GraphQLClient\\GraphQLClient.csproj",
+        "packagesPath": "C:\\Users\\vkacmarik\\.nuget\\packages\\",
+        "outputPath": "W:\\GitHub\\Repos\\graphql-samples\\src\\GraphQLClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vkacmarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nugetfeed.sabo-gmbh.de/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.dotvvm.com/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GraphQL.Client": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

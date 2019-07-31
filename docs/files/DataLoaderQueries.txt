@@ -1,0 +1,8 @@
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [o].[Id], [o].[Address], [o].[Name]
+FROM [Owners] AS [o]
+
+Microsoft.EntityFrameworkCore.Database.Command:Information: Executed DbCommand (17ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[Description], [a].[OwnerId], [a].[Type]
+FROM [Accounts] AS [a]
+WHERE [a].[OwnerId] IN ('514c3bc3-14df-4515-bc13-256e75dd2e9f', '791716be-7eff-4370-814e-3884d27ae682')

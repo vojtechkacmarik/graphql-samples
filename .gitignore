@@ -1,0 +1,4 @@
+/.vs
+/src/.vs
+/src/GraphQLDotNetCore/bin
+/src/GraphQLDotNetCore/obj

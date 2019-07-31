@@ -1,0 +1,14 @@
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\bin\Debug\netcoreapp2.2\GraphQLClient.deps.json
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\bin\Debug\netcoreapp2.2\GraphQLClient.runtimeconfig.json
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\bin\Debug\netcoreapp2.2\GraphQLClient.runtimeconfig.dev.json
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\bin\Debug\netcoreapp2.2\GraphQLClient.dll
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\bin\Debug\netcoreapp2.2\GraphQLClient.pdb
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.csprojAssemblyReference.cache
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.csproj.CoreCompileInputs.cache
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.RazorAssemblyInfo.cache
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.RazorAssemblyInfo.cs
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.AssemblyInfoInputs.cache
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.AssemblyInfo.cs
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.RazorTargetAssemblyInfo.cache
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.dll
+W:\GitHub\Repos\graphql-samples\src\GraphQLClient\obj\Debug\netcoreapp2.2\GraphQLClient.pdb
